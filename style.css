@@ -1,0 +1,89 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: dimgray;
+}
+.border-header {
+  background-color: Dodgerblue;
+  padding: 10px;
+  margin: 0;
+}
+#fb-lite {
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  justify-content: center;
+  font-size: 18px;
+}
+#tap-profile {
+  margin-left: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.span {
+  margin-left: 87px;
+  font-size: 20px;
+  margin-top: -50px;
+  color: #fff;
+}
+.span1 {
+  margin-left: 87px;
+  font-size: 20px;
+  margin-top: -50px;
+  color: #fff;
+}
+.box-icon {
+  margin-left: 330px;
+  margin-top: -40px;
+}
+.box-icon1 {
+  margin-top: -40px;
+  margin-left: 330px;
+}
+.card-box {
+  margin-top: 50px;
+}
+.box-icon3 {
+  margin-top: 60px;
+  margin-left: 5px;
+}
+.fa-plus {
+  background-color: Dodgerblue;
+  color: #fff;
+  width: 40px;
+  text-align: center;
+  justify-content: center;
+  padding: 10px;
+}
+.fa-search {
+  background-color: Dodgerblue;
+  color: #fff;
+  width: 40px;
+  text-align: center;
+  justify-content: center;
+  padding: 10px;
+  margin-top: 5px;
+}
+.log {
+  margin-left: 20px;
+  color: #eee;
+}
+.log2 {
+  margin-left: 20px;
+  color: #eee;
+}
+/* Developer Windel */
+.button-box {
+  margin-left: 90px;
+  margin-top: 40px;
+}
+input[type="submit"] {
+  background-color: #4CAF50;
+  padding: 20px;
+  color: #fff;
+  border-radius: 5px;
+  border-color: transparent;
+}
+input[type="submit"]:hover {
+  background-color: darkolivegreen;
+}
